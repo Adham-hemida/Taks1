@@ -10,8 +10,8 @@ public static class InvoiceErrors
 		new("receiver.not_found", "No receiver was found with the given Id", StatusCodes.Status404NotFound);
 	
 	public static readonly Error TotalSalesAmount =
-		new("TotalSalesAmount", "TotalSalesAmount should not be negative ", StatusCodes.Status404NotFound);
+		new("TotalSalesAmount", "TotalSalesAmount should not be negative ", StatusCodes.Status400BadRequest);
 	
 	public static readonly Error TotalNetAmount =
-		new("TotalNetAmount", "TotalNetAmount should not be negative ", StatusCodes.Status404NotFound);
+		new("TotalNetAmount", "TotalNetAmount should not be negative ", StatusCodes.Status400BadRequest);
 }
