@@ -1,10 +1,4 @@
-﻿using Mapster;
-using Microsoft.EntityFrameworkCore;
-using System.Xml.Linq;
-using Taks1.Abstractions;
-using Taks1.Contracts.Inovice;
-using Taks1.Contracts.InoviceLine;
-using Taks1.Entites;
+﻿using Taks1.Contracts.InoviceLine;
 using Taks1.ErrorHandler;
 using Taks1.Persistence.Data;
 

@@ -1,7 +1,5 @@
 ﻿using FluentValidation;
-using Mapster;
 using MapsterMapper;
-using Microsoft.EntityFrameworkCore;
 using SharpGrip.FluentValidation.AutoValidation.Mvc.Extensions;
 using System.Reflection;
 using Taks1.Persistence.Data;

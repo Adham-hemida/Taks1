@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Reflection;
-using Taks1.Entites;
+﻿using System.Reflection;
 
 namespace Taks1.Persistence.Data;
 

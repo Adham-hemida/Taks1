@@ -1,5 +1,4 @@
-﻿using Taks1.Abstractions;
-namespace Taks1.ErrorHandler;
+﻿namespace Taks1.ErrorHandler;
 
 public static class InvoiceErrors
 {

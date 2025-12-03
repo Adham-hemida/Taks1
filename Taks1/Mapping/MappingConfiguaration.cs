@@ -1,6 +1,4 @@
-﻿using Mapster;
-using Taks1.Contracts.Inovice;
-using Taks1.Entites;
+﻿using Taks1.Contracts.Inovice;
 
 namespace Taks1.Mapping;
 
